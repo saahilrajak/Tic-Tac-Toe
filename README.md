@@ -1,4 +1,4 @@
-# Tic-Tac-Toe
+Tic-Tac-Toe
 
 Tic-Tac-Toe is a simple and fun game played between two people. The goal is to be the first to get three of your marks, either X or O, in a straight line—whether that's across a row, down a column, or diagonally—on a 3x3 grid.
 
